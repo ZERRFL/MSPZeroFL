@@ -173,3 +173,15 @@
 [06Dec2024 06:03:13.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZEROFL19[/100.104.102.99:55338] logged in with entity id 1404 at (134.1207714413633, 70.0, -14.61252803683138)
 [06Dec2024 06:03:13.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEROFL19 joined the game
 [06Dec2024 06:03:21.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZEROFL19: Set own game mode to Creative Mode]
+[06Dec2024 06:05:42.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEROFL19 lost connection: Disconnected
+[06Dec2024 06:05:42.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEROFL19 left the game
+[06Dec2024 06:05:53.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Dec2024 06:05:53.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Dec2024 06:05:53.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Dec2024 06:05:54.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Dec2024 06:05:55.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Dec2024 06:05:55.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Dec2024 06:05:55.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Dec2024 06:05:55.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Dec2024 06:05:55.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Dec2024 06:05:55.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
